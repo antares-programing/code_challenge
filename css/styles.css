@@ -1,0 +1,36 @@
+body{
+    background-color: aliceblue;
+}
+#formContainer{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding: 10vh;
+}
+#myForm{
+    border-radius: 20px;
+    padding: 5vh;
+    background-color: gray;
+    display: grid;
+    justify-content: space-between;
+}
+#smtBttn{
+    height: 30px;
+    margin: 1rem;
+}
+.field{
+    height: 30px;
+    margin: 1rem;
+}
+#container{
+    border-radius: 20px;
+    padding: 5vh;
+    background-color: gray;
+    display: grid;
+    justify-content: space-between;
+}
+#containerContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
